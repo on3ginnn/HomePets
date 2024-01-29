@@ -94,6 +94,7 @@ img{
 
 /*-------------header---------------*/
 header{
+    z-index: 50;
     position: sticky;
     top: 0;
     left: 0;
